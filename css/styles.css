@@ -1,0 +1,68 @@
+/********************* Tag Selectors *********************/
+body {
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+  color: #0C4443;
+  font-family: 'Montserrat';
+  font-size: 32px;
+}
+p {
+  font-family: 'Share Tech Mono'
+
+}
+h3 {
+  font-family: 'Montserrat';
+}
+div {
+  width: 100%;
+}
+table {
+  border-color: black;
+  border-width: 1px;
+}
+/********************* Class Selectors *********************/
+.top {
+  background-color: #B3F3F3;
+  padding: 5px;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+.middle {
+  background-color: #0C4443;
+  height: 200px;
+  padding: 5px;
+  padding-top: 75px;
+  margin: 0;
+  color: white;
+  text-align: center;
+}
+.bottom {
+  background-color: white;
+  height: 200px;
+  width: 100%;
+}
+.mountain {
+  width: 60%;
+  height: 60%;
+}
+.top-wrd {
+  margin-top: 40px;
+  width: 100%;
+}
+.bottom-txt {
+  width: 50%;
+  background-color: #B3F3F3;
+  position: absolute;
+  left: 0;
+  text-align: center;
+}
+.bottom-vid {
+  width: 50%;
+  background-color: white;
+  position: absolute;
+  right: 0;
+  text-align: center;
+}
